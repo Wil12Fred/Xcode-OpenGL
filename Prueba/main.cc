@@ -1,7 +1,6 @@
 #include <GLUT/glut.h>
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
-#include <GLUT/glut.h>
 #include "grafo.h"
 #include "delaunay.h"
 #include "aest.h"

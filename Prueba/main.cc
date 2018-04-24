@@ -468,7 +468,7 @@ int main(int argc, char **argv)
     glutInitDisplayMode( GLUT_RGB | GLUT_DOUBLE );
     glutInitWindowSize(SIZEX, SIZEY); 
     glutInitWindowPosition(0, 0);
-    glutCreateWindow("Acosando a MARILY..!"); 
+    glutCreateWindow("..!"); 
     init_GL();
     //glutSpecialFunc(&callback_special);
     //glutMouseFunc(&callback_mouse);
